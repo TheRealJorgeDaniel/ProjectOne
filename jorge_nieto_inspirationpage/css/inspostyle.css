@@ -24,7 +24,7 @@ nav img {
 }
 
 #inspo {
-  padding-top: 300px;
+  padding-top: 200px;
   text-align: center;
   font-family: "Pixelify Sans", sans-serif;
   color: #6b3ea2;
@@ -45,6 +45,29 @@ article {
   flex-direction: column;
   align-items: center;
   width: 30%;
+  padding 15px;
+
+}
+
+.pat {
+  font-family: "Pixelify Sans", sans-serif;
+  color: #6b3ea2;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.nic {
+  font-family: "Pixelify Sans", sans-serif;
+  color: #6b3ea2;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.bad {
+  font-family: "Pixelify Sans", sans-serif;
+  color: #6b3ea2;
+  font-size: 25px;
+  text-decoration: none;
 }
 
 p {
@@ -55,3 +78,6 @@ p {
   padding: auto;
 }
 
+hr {
+  color: #6b3ea2;
+}
